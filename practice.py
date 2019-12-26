@@ -13,8 +13,7 @@ class B:
 class C:
   def show(self)
     pass
-      
-    
+  
 a=A()
 a.show()
 a.display()
@@ -22,3 +21,4 @@ b=B()
 b.show()
 b.display()
 print('done with changes')
+print('thanq')
