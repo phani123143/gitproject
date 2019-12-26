@@ -10,12 +10,15 @@ class B:
     print('pk')
   def display(self):
     print('npk')
-    
+class C:
+  def show(self)
+    pass
+  
 a=A()
 a.show()
 a.display()
 b=B()
 b.show()
 b.display()
-
+print('done with changes')
 print('thanq')
