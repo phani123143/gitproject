@@ -10,7 +10,6 @@ class B:
     print('pk')
   def display(self):
     print('npk')
-      
     
 a=A()
 a.show()
@@ -18,3 +17,5 @@ a.display()
 b=B()
 b.show()
 b.display()
+
+print('thanq')
