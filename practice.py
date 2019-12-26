@@ -10,6 +10,9 @@ class B:
     print('pk')
   def display(self):
     print('npk')
+class C:
+  def show(self)
+    pass
       
     
 a=A()
